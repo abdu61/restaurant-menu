@@ -60,7 +60,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 100dvh;
+  height: 90dvh;
   margin: 0 4rem;
 }
 
@@ -190,7 +190,7 @@ section img {
 
 /* Contact Section */
 .contact-container {
-  height: 100dvh;
+  height: 90dvh;
   margin: 0 4rem;
   padding: 4rem;
 }
